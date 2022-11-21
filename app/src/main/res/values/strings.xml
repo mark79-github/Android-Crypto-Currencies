@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Crypto Currencies</string>
+    <string name="currencies_size">Crypto Currencies Found: %d</string>
+    <string name="crypto_currency_name_label">Name</string>
+    <string name="crypto_currency_symbol_label">Symbol</string>
+    <string name="crypto_currency_price_label">Price</string>
+    <string name="crypto_currency_market_cap_label">Market cap</string>
+    <string name="crypto_currency_highest_value_label">Highest value for last 24h</string>
+    <string name="crypto_currency_percentage_percentage_price_change_label">Percentage price change for last 24h</string>
+    <string name="crypto_currency_percentage_percentage_market_cap_change_label">Percentage market cap change for last 24h</string>
+    <string name="crypto_currency_lowest_value_label">Lowest value for last 24h</string>
+    <string name="crypto_currency_btn_like_image_description">Add/remove to favourites</string>
+    <string name="crypto_currency_logo_image_description">Currency logo</string>
+</resources>
